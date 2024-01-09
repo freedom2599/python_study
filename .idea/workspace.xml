@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82ee2a78-ac6d-4702-8880-728a9fcbf7ba" name="更改" comment="学习">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="82ee2a78-ac6d-4702-8880-728a9fcbf7ba" name="更改" comment="学习" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1704782778063</updated>
       <workItem from="1704782779111" duration="1227000" />
-      <workItem from="1704784019780" duration="1362000" />
+      <workItem from="1704784019780" duration="1847000" />
     </task>
     <task id="LOCAL-00001" summary="学习">
       <option name="closed" value="true" />
