@@ -203,4 +203,4 @@ import math
 # m = a - b * c
 # print("取模时，会将 c 向负无穷的方向取整,则c= ", c)
 # print("m = a - b * c = ", m)
-# print("也就是：a % b =", a % b,"\n故，python中的%为取余")
+# print("也就是：a % b =", a % b,"\n故，python中的%为取模")
