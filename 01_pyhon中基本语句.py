@@ -7,17 +7,17 @@ print(
 """
 )
 # 整数
-66
+int_a = 66
 # 浮点数（小数）
-66.6
+float_b = 66.6
 # 字符串（文本）
-"mqy"
+str_c = "mqy"
 # 打印整数
-print(66)
+print(int_a)
 # 打印浮点数
-print(66.6)
+print(float_b)
 # 打印字符串
-print("mqy")
+print(str_c)
 
 print(
     """
