@@ -1,7 +1,7 @@
-# 调用math库用于175行的取余取模讲解
-import math
-
-
+# # 调用math库用于175行的取余取模讲解
+# import math
+#
+#
 # """
 # python学习笔记
 # """
@@ -139,37 +139,37 @@ import math
 # # +=
 # mun = 1
 # print("mun = ", mun)
-# mun += 2 # mun = mun + 2
+# mun += 2    # mun = mun + 2
 # print("mun += 2:", mun)
 # # -=
 # mun = 3
 # print("mun = ", mun)
-# mun -= 2 # mun = mun - 2
+# mun -= 2    # mun = mun - 2
 # print("mun -= 2:", mun)
 # # *=
 # mun = 2
 # print("mun = ", mun)
-# mun *= 2 # mun = mun * 2
+# mun *= 2    # mun = mun * 2
 # print("mun *= 2:", mun)
 # # /=
 # mun = 4
 # print("mun = ", mun)
-# mun /= 2 # mun = mun / 2
+# mun /= 2    # mun = mun / 2
 # print("mun /= 2:", mun)
 # # //=
 # mun = 5
 # print("mun = ", mun)
-# mun //= 2 # mun = mun // 2
+# mun //= 2   # mun = mun // 2
 # print("mun //= 2:", mun)
 # # %=
 # mun = 5
 # print("mun = ", mun)
-# mun %= 2 # mun = mun % 2
+# mun %= 2    # mun = mun % 2
 # print("mun %= 2:", mun)
 # # **=
 # mun = 2
 # print("mun = ", mun)
-# mun **= 2 # mun = mun ** 2
+# mun **= 2   # mun = mun ** 2
 # print("mun **= 2:", mun)
 #
 # # 取余和取模:当两个数均为正数是，取余与取模的结果是一致的，而当两个数一正一负时结果就不一样
@@ -203,4 +203,32 @@ import math
 # m = a - b * c
 # print("取模时，会将 c 向负无穷的方向取整,则c= ", c)
 # print("m = a - b * c = ", m)
-# print("也就是：a % b =", a % b,"\n故，python中的%为取模")
+# print("也就是：a % b =", a % b, "\n故，python中的%为取模")
+#
+# 
+# """
+# 演示python中字符串的定义法相关操作
+# """
+# # 单引号定义法
+# name_1 = '张三'
+# print(name_1)
+# # 双引号定义法
+# name_2 = "张三"
+# print(name_2)
+# # 三引号定义法,与多行注释写法一样，同样支持换行操作，使用变量接收就是字符串，不接收就可作为多行注释
+# # 单行会提示，W292 no newline at end of file
+# name_3 = """
+# 我叫
+# 张三
+# """
+# print(name_3)
+# # 字符串的嵌套
+# # 单引号定义法，可以内含双引号
+# name_12 = '我叫"张三"'
+# print("单引号定义法，可以内含双引号：", name_12)
+# # 双引号定义法，可以内含单引号
+# name_21 = "我叫'张三'"
+# print("双引号定义法，可以内含单引号：", name_21)
+# # 使用转义字符（\）来将引号解除效用，变成普通字符串
+# name_4 = "我叫\"张三\""
+# print("使用转义字符\\来将引号解除效用:", name_4)
