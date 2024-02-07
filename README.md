@@ -400,7 +400,7 @@ print('字符串在python中的类型名是：%s' % type("字符串"))
 print(f'字符串在python中的类型名是：{type("字符串")}')
 ```
 
-### 数据输入
+### [数据输入](https://github.com/freedom2599/python_study/blob/master/01-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E5%8F%A5/09-%E6%95%B0%E6%8D%AE%E8%BE%93%E5%85%A5.py)
 
 input语句获取键盘输入信息
 
@@ -428,9 +428,9 @@ num = int(num)
 print("你的手机号的类型是：", type(num))
 ```
 
-## 判断语句
+## [判断语句](https://github.com/freedom2599/python_study/tree/master/02-%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5)
 
-### 布尔类型和比较运算符
+### [布尔类型和比较运算符](https://github.com/freedom2599/python_study/blob/master/02-%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5/01-%E5%B8%83%E5%B0%94%E7%B1%BB%E5%9E%8B%E5%92%8C%E6%AF%94%E8%BE%83%E8%BF%90%E7%AE%97%E7%AC%A6.py)
 
 python常用的6种值
 
