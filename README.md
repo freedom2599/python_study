@@ -1,8 +1,8 @@
 # Python学习笔记
 
-## 基本语句
+## [基本语句](https://github.com/freedom2599/python_study/tree/master/01-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E5%8F%A5)
 
-### 字面量
+### [字面量](https://github.com/freedom2599/python_study/blob/master/01-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E5%8F%A5/01-%E5%AD%97%E9%9D%A2%E9%87%8F.py)
 
 ```python
 # 整数
@@ -30,7 +30,7 @@ print(float_b)
 print(str_c)
 ```
 
-### 注释
+### [注释](https://github.com/freedom2599/python_study/blob/master/01-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E5%8F%A5/02-%E6%B3%A8%E9%87%8A.py)
 
 ```python
 # 
@@ -41,7 +41,7 @@ print(str_c)
 """
 ```
 
-### 变量
+### [变量](https://github.com/freedom2599/python_study/blob/master/01-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E5%8F%A5/03-%E5%8F%98%E9%87%8F.py)
 
 ```python
 # 定义一个变量money，值为50
@@ -61,7 +61,7 @@ cole = 5
 print("买可乐花费", cole, "元，剩余", money - cole, "元")
 ```
 
-### 数据类型
+### [数据类型](https://github.com/freedom2599/python_study/blob/master/01-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E5%8F%A5/04-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.py)
 
 ```python
 # 方式1：使用print直接输出类型信息
@@ -92,7 +92,7 @@ print("age数据类型为", type(age))
 print("num数据类型为", type(num))
 ```
 
-### 数据类型转换
+### [数据类型转换](https://github.com/freedom2599/python_study/blob/master/01-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E5%8F%A5/05-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.py)
 
 ```python
 # 将数字类型(整数和浮点数)转换为字符串
@@ -119,7 +119,7 @@ print("float_int的值为", float_int, "数据类型为：", type(float_int))
 # 非数字字符串无法转为数字类型,eg: str_int_ValueError = int("mqy")
 ```
 
-### 标识符
+### [标识符](https://github.com/freedom2599/python_study/blob/master/01-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E5%8F%A5/06-%E6%A0%87%E8%AF%86%E7%AC%A6.py)
 
 ```python
 # 规则1.命名标识符只允许出现英文、中文、数字、下划线
@@ -156,7 +156,7 @@ print(admin)
 # 变量命名规范
 ```
 
-### 运算符
+### [运算符](https://github.com/freedom2599/python_study/blob/master/01-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E5%8F%A5/07-%E8%BF%90%E7%AE%97%E7%AC%A6.py)
 
 ```python
 # 算数（数学）运算符
@@ -283,7 +283,7 @@ print("也就是：a % b =", a % b, "\n故，python中的%为取模")
 
 ### 字符串
 
-#### 字符串的定义法
+#### [字符串的定义法](https://github.com/freedom2599/python_study/blob/master/01-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E5%8F%A5/08-%E5%AD%97%E7%AC%A6%E4%B8%B2-01-%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%AE%9A%E4%B9%89%E6%B3%95.py)
 
 ```python
 # 单引号定义法
@@ -324,7 +324,7 @@ name_4 = "我叫\"张三\""
 print("使用转义字符\\来将引号解除效用:", name_4)
 ```
 
-#### 字符串的拼接
+#### [字符串的拼接](https://github.com/freedom2599/python_study/blob/master/01-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E5%8F%A5/08-%E5%AD%97%E7%AC%A6%E4%B8%B2-02-%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8B%BC%E6%8E%A5.py)
 
 ```python
 # 字符串字面量之间的拼接
@@ -338,7 +338,7 @@ name = "mqy"
 print("我是：" + name + "我的QQ号是：" + qq)
 ```
 
-#### 字符串格式化
+#### [字符串格式化](https://github.com/freedom2599/python_study/blob/master/01-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E5%8F%A5/08-%E5%AD%97%E7%AC%A6%E4%B8%B2-03-%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%A0%BC%E5%BC%8F%E5%8C%96.py)
 
 ```python
 # 通过占位的形式，完成拼接
@@ -363,7 +363,7 @@ message = "我是%s，我今年%d岁，我的生日是%.2f" % (name, age, birthd
 print(message)
 ```
 
-####  字符串格式化的精度控制
+####  [字符串格式化的精度控制](https://github.com/freedom2599/python_study/blob/master/01-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E5%8F%A5/08-%E5%AD%97%E7%AC%A6%E4%B8%B2-04-%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%A0%BC%E5%BC%8F%E5%8C%96%E7%9A%84%E7%B2%BE%E5%BA%A6%E6%8E%A7%E5%88%B6.py)
 
 ```python
 # 我们可以使用辅助符号"m.n"来控制数据的宽度和精度
@@ -380,7 +380,7 @@ print("数字12.345宽度限制7，小数精度2，结果是：%7.2f" % num2)
 print("数字12.345宽度不限制，小数精度2，结果是：%.2f" % num2)
 ```
 
-#### 字符串格式化方式2
+#### [字符串格式化方式2](https://github.com/freedom2599/python_study/blob/master/01-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E5%8F%A5/08-%E5%AD%97%E7%AC%A6%E4%B8%B2-05-%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%A0%BC%E5%BC%8F%E5%8C%962.py)
 
 ```python
 # 展示第二种字符串格式化的方法：f"{占位}"
@@ -391,7 +391,7 @@ birthday = 8.17
 print(f"我是{name}，我今年{age}岁，我的生日是{birthday}" )
 ```
 
-#### 表达式格式化
+#### [表达式格式化](https://github.com/freedom2599/python_study/blob/master/01-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E5%8F%A5/08-%E5%AD%97%E7%AC%A6%E4%B8%B2-06-%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%A0%BC%E5%BC%8F%E5%8C%96.py)
 
 ```python
 print('1 * 1的结果是%d' % (1 * 1))
