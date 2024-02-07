@@ -5,57 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82ee2a78-ac6d-4702-8880-728a9fcbf7ba" name="更改" comment="学习">
-      <change afterPath="$PROJECT_DIR$/00-python测试/99乘法表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-python测试/猜测随机数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-python测试/简易银行.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-python测试/简易银行1/build/简易银行/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-python测试/简易银行1/build/简易银行/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-python测试/简易银行1/build/简易银行/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-python测试/简易银行1/build/简易银行/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-python测试/简易银行1/build/简易银行/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-python测试/简易银行1/build/简易银行/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-python测试/简易银行1/build/简易银行/warn-简易银行.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-python测试/简易银行1/build/简易银行/xref-简易银行.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-python测试/简易银行1/build/简易银行/简易银行.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-python测试/简易银行1/dist/简易银行.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-python测试/简易银行1/简易银行.spec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-python测试/银行管理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-python测试/银行管理/dist/bank_data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-python测试/银行管理/dist/locked_cards.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-python测试/银行管理/dist/银行管理.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基本语句/01-字面量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基本语句/02-注释.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基本语句/03-变量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基本语句/04-数据类型.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基本语句/05-数据类型转换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基本语句/06-标识符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基本语句/07-运算符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基本语句/08-字符串-01-字符串的定义法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基本语句/08-字符串-02-字符串的拼接.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基本语句/08-字符串-03-字符串格式化.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基本语句/08-字符串-04-字符串格式化的精度控制.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基本语句/08-字符串-05-字符串格式化2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-判断语句/01-布尔类型和比较运算符.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/99乘法表.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Python.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/Python.xmind" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyhon中基本语句.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/猜测随机数.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简易银行1/build/简易银行/Analysis-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简易银行1/build/简易银行/EXE-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简易银行1/build/简易银行/PKG-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简易银行1/build/简易银行/PYZ-00.pyz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简易银行1/build/简易银行/PYZ-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简易银行1/build/简易银行/base_library.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简易银行1/build/简易银行/warn-简易银行.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简易银行1/build/简易银行/xref-简易银行.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简易银行1/build/简易银行/简易银行.pkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简易银行1/dist/简易银行.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简易银行1/简易银行.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简易银行1/简易银行.spec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/银行管理/dist/bank_data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/银行管理/dist/locked_cards.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/银行管理/dist/银行管理.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/银行管理/银行管理.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,28 +61,76 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.01_pyhon中基本语句.executor&quot;: &quot;Run&quot;,
-    &quot;Python.99乘法表.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pyhon中基本语句 (1).executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/学习/python_study&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.tuchg.nonasciicodecompletionhelper.config.PluginSettingsController&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.01-布尔类型和比较运算符.executor": "Run",
+    "Python.01_pyhon中基本语句.executor": "Run",
+    "Python.09-数据输入.executor": "Run",
+    "Python.99乘法表.executor": "Run",
+    "Python.pyhon中基本语句 (1).executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/学习/python_study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "com.github.tuchg.nonasciicodecompletionhelper.config.PluginSettingsController",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.pyhon中基本语句 (1)">
+}]]></component>
+  <component name="RunManager" selected="Python.01-布尔类型和比较运算符">
+    <configuration name="01-布尔类型和比较运算符" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02-判断语句" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02-判断语句/01-布尔类型和比较运算符.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="09-数据输入" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-基本语句" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-基本语句/09-数据输入.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="99乘法表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_study" />
       <option name="ENV_FILES" value="" />
@@ -201,6 +203,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01-布尔类型和比较运算符" />
+        <item itemvalue="Python.09-数据输入" />
         <item itemvalue="Python.pyhon中基本语句 (1)" />
         <item itemvalue="Python.99乘法表" />
       </list>
@@ -232,6 +236,7 @@
       <workItem from="1706592520133" duration="2000" />
       <workItem from="1707293698113" duration="6290000" />
       <workItem from="1707303333738" duration="1374000" />
+      <workItem from="1707306121270" duration="3844000" />
     </task>
     <task id="LOCAL-00001" summary="学习">
       <option name="closed" value="true" />
@@ -356,6 +361,8 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_study$pyhon__1_.coverage" NAME="pyhon中基本语句 (1) 覆盖结果" MODIFIED="1706521976470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pyhon_py$pyhon__1_.coverage" NAME="pyhon中基本语句 (1) 覆盖结果" MODIFIED="1707301832346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/09__py$01_.coverage" NAME="01-布尔类型和比较运算符 覆盖结果" MODIFIED="1707310347740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-判断语句" />
+    <SUITE FILE_PATH="coverage/09__py$09_.coverage" NAME="09-数据输入 覆盖结果" MODIFIED="1707306669570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01-基本语句" />
     <SUITE FILE_PATH="coverage/python_study$99.coverage" NAME="99乘法表 覆盖结果" MODIFIED="1706414190432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$01_pyhon.coverage" NAME="01_pyhon中基本语句 覆盖结果" MODIFIED="1704782902918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>

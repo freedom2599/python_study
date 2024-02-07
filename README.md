@@ -400,3 +400,106 @@ print('字符串在python中的类型名是：%s' % type("字符串"))
 print(f'字符串在python中的类型名是：{type("字符串")}')
 ```
 
+### 数据输入
+
+input语句获取键盘输入信息
+
+```python
+# input默认接受字符串
+
+# print("你是谁？")
+
+# name = input()
+
+# print("只知道了，你的名字是%s" % name)
+
+# name = input("你是谁？\n")
+
+# print("我记得你%s" % name)
+
+# 输入数字类型
+
+num = input("请告诉我你的手机号\n")
+print("你的手机号的类型是：", type(num))
+
+# 数据类型转换
+
+num = int(num)
+print("你的手机号的类型是：", type(num))
+```
+
+## 判断语句
+
+### 布尔类型和比较运算符
+
+python常用的6种值
+
+ ```
+  
+ - 数字（Number）
+ 	- 整数（int）
+ 		 - 如：1、-1等
+ 	- 浮点数（float）
+          - 如：13.14、-131.4等.
+ 	- 复数（complex）
+          - 如：4+3j，以j结尾表示复数
+ 	- 布尔（bool）
+          - 表示现实生活中的逻辑，即真和假 True表示真 Flase表示假 True的本质上是一个数字记作1，False记作0
+ - 字符串（String）
+ 	- 描述文本的一种数据类型
+          - 由任意数量的字符组成
+ - 列表（List）
+ 	- 有序的可变序列
+          - python中使用最为频繁的数据类型，可有序记录一堆数据
+ - 元组（Tuple）
+ 	- 有序的不可变序列
+          - 可有序记录一堆不可变的python数据集合
+ - 集合（Set）
+ 	- 无序不重复集合
+          - 可无序记录一堆不重复的python数据集合
+ - 字典（Dictionary）
+ 	- 无序key-value集合
+          - 可无序记录一堆key-value型的python数据集合
+ ```
+
+​      
+
+演示python中布尔类型的定义以及比较运算符的应用
+
+```python
+# 定义变量存储布尔类型的数据
+bool_1 = True
+bool_2 = False
+print(f"bool_1变量的内容是:{bool_1}，类型是{type(bool_1)}")
+print(f"bool_2变量的内容是:{bool_2}，类型是{type(bool_2)}")
+
+# 比较运算符的使用
+# ==,!=,>,<,>=,<=
+# 演示进行内容的相等比较
+num1 = 10
+num2 = 10
+print(f"10 == 10 的结果是：{num1 == num2}")
+
+num1 = 10
+num2 = 15
+print(f"10 != 15 的结果是：{num1 != num2}")
+
+name1 = "mqy"
+name2 = "mqy1"
+print(f"name1 == name2的结果是：{name1 == name2}")
+
+# 演示大于小于，大于等于，小于等于的比较运算
+num1 = 10
+num2 = 15
+
+print(f"10 > 15 的结果是：{num1 > num2}")
+print(f"10 < 15 的结果是：{num1 < num2}")
+
+num1 = 10
+num2 = 10
+num3 = 11
+print(f"10 >= 10 的结果是：{num1 >= num2}")
+print(f"10 <= 10 的结果是：{num1 <= num2}")
+print(f"10 >= 11 的结果是：{num1 >= num3}")
+print(f"10 <= 11 的结果是：{num1 <= num3}")
+```
