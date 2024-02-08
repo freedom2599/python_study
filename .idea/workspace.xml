@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82ee2a78-ac6d-4702-8880-728a9fcbf7ba" name="更改" comment="学习">
-      <change afterPath="$PROJECT_DIR$/02-判断语句/01-布尔类型和比较运算符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-判断语句/02-if语句-01-if语句的基本格式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-判断语句/02-if语句-02-if else语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-判断语句/02-if语句-03-if elif else语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-判断语句/03-判断语句的嵌套.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-循环语句/01-while循环语句-01-基础语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-循环语句/01-while循环语句-02-循环嵌套.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-循环语句/02-for循环-01-for循环的基本语法-01-基本语法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-循环语句/02-for循环-01-for循环的基本语法-02-range语法.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-python测试/99乘法表.py" beforeDir="false" afterPath="$PROJECT_DIR$/00-python测试/99乘法表.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/Python.xmind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -64,8 +71,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.01-while循环语句-01-基础语句.executor": "Run",
+    "Python.01-while循环语句-02-循环嵌套.executor": "Run",
     "Python.01-布尔类型和比较运算符.executor": "Run",
     "Python.01_pyhon中基本语句.executor": "Run",
+    "Python.01_while循环的基础语法.executor": "Run",
+    "Python.02-for循环-01-for循环的基本语法-02-range语法.executor": "Run",
+    "Python.02-for循环的基本语法.executor": "Run",
+    "Python.02-if语句-01-if语句的基本格式.executor": "Run",
+    "Python.02-if语句-02-if else语句.executor": "Run",
+    "Python.02-if语句-03-if elif else语句.executor": "Run",
+    "Python.03-判断语句的嵌套.executor": "Run",
     "Python.09-数据输入.executor": "Run",
     "Python.99乘法表.executor": "Run",
     "Python.pyhon中基本语句 (1).executor": "Run",
@@ -80,12 +96,17 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "com.github.tuchg.nonasciicodecompletionhelper.config.PluginSettingsController",
+    "settings.editor.selected.configurable": "settings.qodana",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.01-布尔类型和比较运算符">
-    <configuration name="01-布尔类型和比较运算符" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\39056\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="11a2d6cd-79e3-488d-92fb-f7fd06a8dc60" reportId="09-数据输入.py/qodana/2024-02-08" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.02-for循环-01-for循环的基本语法-02-range语法">
+    <configuration name="01-while循环语句-01-基础语句" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_study" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,12 +115,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02-判断语句" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-循环语句" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02-判断语句/01-布尔类型和比较运算符.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-循环语句/01-while循环语句-01-基础语句.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09-数据输入" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01-while循环语句-02-循环嵌套" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_study" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,12 +138,58 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-基本语句" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-循环语句" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-基本语句/09-数据输入.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-循环语句/01-while循环语句-02-循环嵌套.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02-for循环-01-for循环的基本语法-01-基本语法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-循环语句" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\学习\python_study\03-循环语句\02-for循环-01-for循环的基本语法-01-基本语法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02-for循环-01-for循环的基本语法-02-range语法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-循环语句" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-循环语句/02-for循环-01-for循环的基本语法-02-range语法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,35 +207,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00-python测试" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/99乘法表.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pyhon中基本语句 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_study" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyhon中基本语句.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00-python测试/99乘法表.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,10 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01-布尔类型和比较运算符" />
-        <item itemvalue="Python.09-数据输入" />
-        <item itemvalue="Python.pyhon中基本语句 (1)" />
+        <item itemvalue="Python.02-for循环-01-for循环的基本语法-02-range语法" />
+        <item itemvalue="Python.02-for循环-01-for循环的基本语法-01-基本语法" />
+        <item itemvalue="Python.01-while循环语句-02-循环嵌套" />
         <item itemvalue="Python.99乘法表" />
+        <item itemvalue="Python.01-while循环语句-01-基础语句" />
       </list>
     </recent_temporary>
   </component>
@@ -237,6 +282,7 @@
       <workItem from="1707293698113" duration="6290000" />
       <workItem from="1707303333738" duration="1374000" />
       <workItem from="1707306121270" duration="3844000" />
+      <workItem from="1707376876254" duration="9383000" />
     </task>
     <task id="LOCAL-00001" summary="学习">
       <option name="closed" value="true" />
@@ -359,10 +405,20 @@
     <option name="LAST_COMMIT_MESSAGE" value="学习" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_study$pyhon__1_.coverage" NAME="pyhon中基本语句 (1) 覆盖结果" MODIFIED="1706521976470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/09__py$02_if_02_if_else.coverage" NAME="02-if语句-02-if else语句 覆盖结果" MODIFIED="1707380191554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-判断语句" />
     <SUITE FILE_PATH="coverage/pyhon_py$pyhon__1_.coverage" NAME="pyhon中基本语句 (1) 覆盖结果" MODIFIED="1707301832346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/09__py$01_while_01_.coverage" NAME="01-while循环语句-01-基础语句 覆盖结果" MODIFIED="1707384391113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03-循环语句" />
+    <SUITE FILE_PATH="coverage/09__py$99.coverage" NAME="99乘法表 覆盖结果" MODIFIED="1707385140176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00-python测试" />
+    <SUITE FILE_PATH="coverage/09__py$01_while_02_.coverage" NAME="01-while循环语句-02-循环嵌套 覆盖结果" MODIFIED="1707386899094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03-循环语句" />
+    <SUITE FILE_PATH="coverage/09__py$02_if_03_if_elif_else.coverage" NAME="02-if语句-03-if elif else语句 覆盖结果" MODIFIED="1707382094128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-判断语句" />
+    <SUITE FILE_PATH="coverage/09__py$02_for.coverage" NAME="02-for循环的基本语法 覆盖结果" MODIFIED="1707389373970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03-循环语句" />
+    <SUITE FILE_PATH="coverage/python_study$pyhon__1_.coverage" NAME="pyhon中基本语句 (1) 覆盖结果" MODIFIED="1706521976470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/09__py$01_.coverage" NAME="01-布尔类型和比较运算符 覆盖结果" MODIFIED="1707310347740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-判断语句" />
     <SUITE FILE_PATH="coverage/09__py$09_.coverage" NAME="09-数据输入 覆盖结果" MODIFIED="1707306669570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01-基本语句" />
+    <SUITE FILE_PATH="coverage/09__py$02_for_01_for_02_range.coverage" NAME="02-for循环-01-for循环的基本语法-02-range语法 覆盖结果" MODIFIED="1707392917400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03-循环语句" />
+    <SUITE FILE_PATH="coverage/09__py$03_.coverage" NAME="03-判断语句的嵌套 覆盖结果" MODIFIED="1707382772649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-判断语句" />
+    <SUITE FILE_PATH="coverage/09__py$02_if_01_if.coverage" NAME="02-if语句-01-if语句的基本格式 覆盖结果" MODIFIED="1707377902094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-判断语句" />
+    <SUITE FILE_PATH="coverage/09__py$01_while.coverage" NAME="01_while循环的基础语法 覆盖结果" MODIFIED="1707383924123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../百度网盘下载/代码/python-learn/04_Python循环语句" />
     <SUITE FILE_PATH="coverage/python_study$99.coverage" NAME="99乘法表 覆盖结果" MODIFIED="1706414190432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$01_pyhon.coverage" NAME="01_pyhon中基本语句 覆盖结果" MODIFIED="1704782902918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>

@@ -6,27 +6,21 @@
 
 ```python
 # 整数
-
 int_a = 66
 
 # 浮点数（小数）
-
 float_b = 66.6
 
 # 字符串（文本）
-
 str_c = "mqy"
 
 # 打印整数
-
 print(int_a)
 
 # 打印浮点数
-
 print(float_b)
 
 # 打印字符串
-
 print(str_c)
 ```
 
@@ -502,4 +496,121 @@ print(f"10 >= 10 的结果是：{num1 >= num2}")
 print(f"10 <= 10 的结果是：{num1 <= num2}")
 print(f"10 >= 11 的结果是：{num1 >= num3}")
 print(f"10 <= 11 的结果是：{num1 <= num3}")
+```
+### if语句
+
+#### if语句的基本格式
+
+```python
+age = 24
+
+if age >= 18:
+    print("您已成年！")
+    print("大学生活真好！")
+
+print("时间过得真快")
+```
+
+#### if else语句
+
+```python
+age = int(input("请输入你的年龄"))
+if age >= 18:
+    print("请购买门票！")
+else:
+    print("您无需购买门票")
+print("祝你游玩愉快")
+```
+
+#### if elif else语句
+
+```python
+age = int(input("请输入你的年龄"))
+if age >= 18:
+    print("请购买门票！")
+elif age <= 6:
+    print("请在父母陪同下游玩！")
+else:
+    print("您无需购买门票")
+print("祝你游玩愉快")
+```
+
+### 判断语句的嵌套
+
+```python
+age = int(input("请输入你的年龄：\n"))
+if age <= 18:
+    print("你无需购买门票！")
+    if age <= 6:
+        print("请在父母陪同下游玩！")
+elif age > 55:
+    print("您的年龄过大")
+    exit()
+else:
+    print("请您购买门票")
+print("祝你游玩愉快")
+```
+
+## 循环语句
+
+### while循环语句
+
+#### 基础语句
+
+```python
+i = 0
+while i < 100:
+    i += 1
+    print(f"学习的第{i}天")
+```
+
+#### 循环嵌套
+
+```python
+# 定义外层循环的控制变量
+i = 1
+while i < 10:
+    
+    # 定义内层循环的控制变量
+    ii = 1
+    while ii <= i:
+        # 内层循环的print语句，不要换行，通过\t制表符进行对齐
+        print(f"{ii} X {i} = {ii * i}\t", end="")
+        ii += 1
+        
+    i += 1
+    print()     # print空内容，就相当于输出一个换行
+    
+```
+
+### for循环
+
+#### for循环语句的基本语法
+
+##### 基本语法
+
+```python
+i = 0
+name = "390566161"
+for x in name:
+    if x == "6":
+        i += 1
+print(f"被统计的字符串里有{i}个6")
+```
+
+##### range语句
+
+```python
+# range语法1 range(num)
+for x in range(9):
+    print(x)
+
+# range语法2 range(num1,num2)
+for x in range(5, 9):
+    print(x)
+
+
+# range语法3 range(num1,num2,step)
+for x in range(5, 9, 2):
+    print(x)
 ```
