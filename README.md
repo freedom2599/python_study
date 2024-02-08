@@ -1,5 +1,7 @@
 # Python学习笔记
 
+演示代码文件均已设置链接
+
 ## [基本语句](https://github.com/freedom2599/python_study/tree/master/01-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E5%8F%A5)
 
 ### [字面量](https://github.com/freedom2599/python_study/blob/master/01-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E5%8F%A5/01-%E5%AD%97%E9%9D%A2%E9%87%8F.py)
@@ -499,7 +501,7 @@ print(f"10 <= 11 的结果是：{num1 <= num3}")
 ```
 ### if语句
 
-#### if语句的基本格式
+#### [if语句的基本格式](https://github.com/freedom2599/python_study/blob/master/02-%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5/02-if%E8%AF%AD%E5%8F%A5-01-if%E8%AF%AD%E5%8F%A5%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A0%BC%E5%BC%8F.py)
 
 ```python
 age = 24
@@ -511,7 +513,7 @@ if age >= 18:
 print("时间过得真快")
 ```
 
-#### if else语句
+#### [if else语句](https://github.com/freedom2599/python_study/blob/master/02-%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5/02-if%E8%AF%AD%E5%8F%A5-02-if%20else%E8%AF%AD%E5%8F%A5.py)
 
 ```python
 age = int(input("请输入你的年龄"))
@@ -522,7 +524,7 @@ else:
 print("祝你游玩愉快")
 ```
 
-#### if elif else语句
+#### [if elif else语句](https://github.com/freedom2599/python_study/blob/master/02-%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5/02-if%E8%AF%AD%E5%8F%A5-03-if%20elif%20else%E8%AF%AD%E5%8F%A5.py)
 
 ```python
 age = int(input("请输入你的年龄"))
@@ -535,7 +537,7 @@ else:
 print("祝你游玩愉快")
 ```
 
-### 判断语句的嵌套
+### [判断语句的嵌套](https://github.com/freedom2599/python_study/blob/master/02-%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5/03-%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5%E7%9A%84%E5%B5%8C%E5%A5%97.py)
 
 ```python
 age = int(input("请输入你的年龄：\n"))
@@ -551,11 +553,11 @@ else:
 print("祝你游玩愉快")
 ```
 
-## 循环语句
+## [循环语句](https://github.com/freedom2599/python_study/tree/master/03-%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5)
 
 ### while循环语句
 
-#### 基础语句
+#### [基础语句](https://github.com/freedom2599/python_study/blob/master/03-%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5/01-while%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5-01-%E5%9F%BA%E7%A1%80%E8%AF%AD%E5%8F%A5.py)
 
 ```python
 i = 0
@@ -564,7 +566,7 @@ while i < 100:
     print(f"学习的第{i}天")
 ```
 
-#### 循环嵌套
+#### [循环嵌套](https://github.com/freedom2599/python_study/blob/master/03-%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5/01-while%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5-02-%E5%BE%AA%E7%8E%AF%E5%B5%8C%E5%A5%97.py)
 
 ```python
 # 定义外层循环的控制变量
@@ -587,7 +589,7 @@ while i < 10:
 
 #### for循环语句的基本语法
 
-##### 基本语法
+##### [基本语法](https://github.com/freedom2599/python_study/blob/master/03-%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5/02-for%E5%BE%AA%E7%8E%AF-01-for%E5%BE%AA%E7%8E%AF%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95-01-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95.py)
 
 ```python
 i = 0
@@ -598,7 +600,7 @@ for x in name:
 print(f"被统计的字符串里有{i}个6")
 ```
 
-##### range语句
+##### [range语句](https://github.com/freedom2599/python_study/blob/master/03-%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5/02-for%E5%BE%AA%E7%8E%AF-01-for%E5%BE%AA%E7%8E%AF%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95-02-range%E8%AF%AD%E6%B3%95.py)
 
 ```python
 # range语法1 range(num)
