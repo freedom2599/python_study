@@ -1,3 +1,5 @@
+
+
 # Python学习笔记
 
 演示代码文件均已设置链接
@@ -616,3 +618,123 @@ for x in range(5, 9):
 for x in range(5, 9, 2):
     print(x)
 ```
+
+##### for循环的作用范围
+```python
+
+# 在for循环外先申明变量i，就可以在全局使用变量i
+i = 0
+
+for i in range(5):
+    # 将数据集（序列）中取出的数据赋值给：临时变量i，在编程规范上讲，for循环内的临时变量，其作用域（作用范围），只限定在循环内部
+    print(i)
+
+# 在for循环外访问临时变量，实际上可以访问到，但是不允许，不建议
+print(i)
+```
+
+#### for循环的嵌套应用
+
+```python
+# 利用for循环嵌套，坚持表白100天，每天先送十朵花，再去表白
+i = 1
+for i in range(1, 101):
+    print(f"今天是第{i}天")
+    for j in range(1, 11):
+        print(f"送出第{j}朵玫瑰")
+    print("小刘我喜欢你")
+print(f"第{i}天表白成功")
+
+# 利用for加while循环
+for i in range(1,101):
+    print(f"今天是第{i}天")
+    j = 1
+    while j <= 10:
+        print(f"送出第{j}朵玫瑰")
+        j += 1
+    print("小刘我喜欢你")
+```
+
+### 循环中断
+
+```python
+# 演示循环中断语句 continue
+for i in range(1, 6):
+    print("111")
+    continue
+    print("222")
+print("333")
+
+# 演示 continue的嵌套使用:中断所在循环的当次执行，直接进入下一次
+for i in range(1, 6):
+    print("111")
+    for j in range(1, 6):
+        print("222")
+        continue
+        print("333")
+    print("444")
+
+# 演示循环中断语句 break
+for i in range(1, 6):
+    print("111")
+    break
+    print("222")
+print("333")
+
+# 演示 break的嵌套使用：直接结束所在循环
+for i in range(1, 6):
+    print("111")
+    for j in range(1, 6):
+        print("222")
+        break
+        print("333")
+    print("444")
+```
+
+### 循环语句利用案例
+
+```python
+"""
+公司准备10000元奖金，一共20个员工，绩点1-10，
+绩点小于5，不发放奖金，大于等于5，发放奖金1000元，奖金发放完则不再发放
+"""
+
+
+import random
+
+money = 10000
+for i in range(1, 21):
+    num = random.randint(1, 10)
+    if money >= 1000:
+        if num < 5:
+            print(f"员工{i},绩点{num},绩点小于5，不发放工资，下一位")
+            continue
+        money -= 1000
+        print(f"员工{i},绩点{num}，发放工资1000元，公司账户余额{money}")
+    else:
+        print("工资发完了，下个月再领取吧")
+        break
+
+```
+
+
+
+```python
+"""
+公司准备10000元奖金，一共20个员工，绩点1-10，
+绩点小于5，不发放奖金，大于等于5的员工平分奖金，奖金发放完则不再发放
+"""
+
+num = 0
+money = 10000
+for i in range(1, 21):
+    num1 = random.randint(1, 10)
+    if num1 >= 5:
+        print(f"员工{i},绩点{num1},满足条件")
+        num += 1
+        continue
+    print(f"员工{i},绩点{num1}")
+money2 = money//num
+print(f"奖金共有{money}元，此次绩点5以上的共有{num}人，每人发放{money2}元，剩余金额{money-num*money2}元")
+```
+
