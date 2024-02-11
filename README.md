@@ -619,7 +619,7 @@ for x in range(5, 9, 2):
     print(x)
 ```
 
-##### for循环的作用范围
+##### [for循环的作用范围](https://github.com/freedom2599/python_study/blob/master/03-%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5/02-for%E5%BE%AA%E7%8E%AF-01-for%E5%BE%AA%E7%8E%AF%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95-03-for%E5%BE%AA%E7%8E%AF%E7%9A%84%E4%BD%9C%E7%94%A8%E8%8C%83%E5%9B%B4.py)
 ```python
 
 # 在for循环外先申明变量i，就可以在全局使用变量i
@@ -633,7 +633,7 @@ for i in range(5):
 print(i)
 ```
 
-#### for循环的嵌套应用
+#### [for循环的嵌套应用](https://github.com/freedom2599/python_study/blob/master/03-%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5/02-for%E5%BE%AA%E7%8E%AF-02-for%E5%BE%AA%E7%8E%AF%E7%9A%84%E5%B5%8C%E5%A5%97%E5%BA%94%E7%94%A8.py)
 
 ```python
 # 利用for循环嵌套，坚持表白100天，每天先送十朵花，再去表白
@@ -655,7 +655,7 @@ for i in range(1,101):
     print("小刘我喜欢你")
 ```
 
-### 循环中断
+### [循环中断](https://github.com/freedom2599/python_study/blob/master/03-%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5/03-%E5%BE%AA%E7%8E%AF%E4%B8%AD%E6%96%AD.py)
 
 ```python
 # 演示循环中断语句 continue
@@ -691,7 +691,7 @@ for i in range(1, 6):
     print("444")
 ```
 
-### 循环语句利用案例
+### [循环语句利用案例](https://github.com/freedom2599/python_study/blob/master/03-%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5/04-%E5%BE%AA%E7%8E%AF%E5%88%A9%E7%94%A8.py)
 
 ```python
 """
