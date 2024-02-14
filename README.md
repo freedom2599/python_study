@@ -738,3 +738,280 @@ money2 = money//num
 print(f"奖金共有{money}元，此次绩点5以上的共有{num}人，每人发放{money2}元，剩余金额{money-num*money2}元")
 ```
 
+## python函数
+
+#### 函数的介绍
+
+```python
+# 函数：组织好的，可以重复利用，用来实现特定功能的代码段
+# 演示：快速体验函数的开发和应用
+# 需求：统计字符串长度，不使用内置函数
+str1 = "1234567"
+str2 = "987654321"
+str3 = "0123456789"
+
+# 自定义函数
+# 定义一个计数的变量
+j = 0
+for i in str1:
+    j += 1
+print(j)
+
+j = 0
+for i in str2:
+    j += 1
+print(j)
+
+j = 0
+for i in str3:
+    j += 1
+print(j)
+# 等效于
+print(len(str3))
+
+
+# 使用函数优化过程
+def my_len(date):
+    j = 0
+    for _ in date:
+        j += 1
+    print(j)
+
+
+my_len(str1)
+my_len(str2)
+my_len(str3)
+
+```
+
+#### 函数的基础定义语法
+
+```python
+"""
+函数的格式：
+
+def 函数名(传入参数):
+    函数体
+    return 返回值
+    
+函数的调用：
+
+函数名(传入参数)
+
+注意事项：
+参数如果不需要，可以省略
+返回值如果不需要，可以省略
+函数必须先定义后使用
+"""
+
+
+# 定义一个函数，输出相关信息
+def say_hi():
+    print('hello world')
+
+
+# 调用函数，让定义的语法工作
+say_hi()
+```
+
+#### 函数的参数
+
+```python
+# 演示：通过参数接受实现两个数字相加,其中x,y称之为形式参数（形参）
+def add(x, y):
+    result = x + y
+    print(f"{x} + {y} = {result}")
+
+
+# 调用函数，传入被计算的两个数字，其中5、6，8、9称之为实际参数（实参）
+add(5, 6)
+add(8, 9)
+
+```
+
+#### 函数的返回值
+
+##### 语法定义
+
+```python
+"""
+语法格式
+def 函数(参数):
+    函数体
+    return 返回值
+    
+    
+变量 = 函数(参数)
+"""
+
+
+# 定义函数，两数相加
+def add(a, b):
+    result = a + b
+    # 通过返回值，将相加的结果返回给调用者
+    return result
+
+
+# 函数的返回值，通过变量来接收
+r = add(1, 2)
+print(r)
+
+```
+
+##### None类型
+
+```python
+# 无return语句的函数返回值
+def say_hi():
+    print('hello')
+
+
+result = say_hi()
+print(f"无返回值函数返回的内容是{result}")
+print(f"无返回值函数返回的内容类型是{type(result)}")
+
+
+# 主动返回None的函数
+def say_hi2():
+    print('hello')
+    return None
+
+
+result = say_hi2()
+print(f"无返回值函数返回的内容是{result}")
+print(f"无返回值函数返回的内容类型是{type(result)}")
+
+
+# None用于if判断
+def check_age(age):
+    if age > 18:
+        return "SUCCESS"
+    else:
+        return None
+
+
+result = check_age(16)
+if not result:
+    # 进入if表示result是None值，也就是False
+    print("未成年，不可以进入")
+
+
+# None用于声明无初始内容的变量
+name = None
+
+```
+
+#### 函数的说明文档
+
+```python
+
+# 定义函数，两数相加
+def add(a, b):
+    """
+    add函数接受两个参数进行相加
+    :param a: 形参a表示相加的其中那个一个参数
+    :param b: 形参b表示相加的其中那个一个参数
+    :return: 返回值是两数相加的结果
+    """
+    result = a + b
+    print(f"两数相加的结果是{result}")
+    return result
+
+
+add(5, 6)
+
+```
+
+#### 函数的嵌套调用
+
+```python
+# 定义函数func_a
+def func_a():
+    print('h')
+
+
+# 定义函数func_b，调用func_a
+def func_b():
+    # 调用func_a
+    func_a()
+    print("i")
+
+
+func_b()
+
+```
+
+#### 变量的作用域
+
+
+局部变量：
+定义在函数体内部的变量，即旨在函数体内部生效
+作用：在函数内部，临时保存数据，当函数调用完成后，立即销毁局部变量
+
+全局变量：
+在函数体内外都能生效的变量
+
+```python
+# 演示局部变量
+
+def a():
+    b = 4
+    print(b)
+
+
+a()
+
+# 出了函数体，局部变量无法使用
+
+print(b)
+```
+
+```python
+# 演示全局变量
+
+num = 1
+
+
+def test_c():
+    print(f"test_c:{num}")
+
+
+test_c()
+print(num)
+```
+
+```python
+# 在函数内部修改全局变量，无法修改
+
+num = 1
+
+
+def test_c():
+    num = 2     # 局部变量
+    print(f"test_c:{num}")
+
+
+test_c()
+print(num)
+```
+
+```python
+# 通过global关键字，在函数体内声明变量为全局变量
+
+num = 1
+
+
+def test_a():
+    print(f"test_a:{num}")
+
+
+def test_c():
+    global num  # 设置内部定义的变量为全局变量
+    num = 2
+    print(f"test_c:{num}")
+
+test_a()
+test_c()
+print(num)
+```
+
