@@ -1,4 +1,7 @@
-a = [1, 3, 5, 2, 3, 9]
-b = list(set(a))
-print(a)
-print(b)
+def test(c):
+
+    a = c(1)
+    return a
+
+
+test(lambda c: c)
