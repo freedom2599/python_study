@@ -1,7 +1,6 @@
-def test(c):
+from typing import Union
+def add(a: int, b: int) -> int:
+    return a + b
 
-    a = c(1)
-    return a
 
-
-test(lambda c: c)
+c = add(1, 2)
