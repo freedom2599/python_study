@@ -1,0 +1,18 @@
+目录
+写在开头
+CVE-2019-14287
+sudo apt和sudo apt-get
+sudo apache2
+sudo ash
+sudo awk
+sudo base32/58/64/nc/z
+sudo cp
+sudo cpulimit
+sudo curl
+sudo date
+sudo dd
+sudo dstat
+sudo ed
+sudo env
+sudo exiftools
+再见
