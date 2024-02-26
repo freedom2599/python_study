@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="82ee2a78-ac6d-4702-8880-728a9fcbf7ba" name="更改" comment="学习">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/00-python测试/99乘法表.py" beforeDir="false" />
@@ -156,9 +157,12 @@
     "Python.07-集合.executor": "Run",
     "Python.08-字典.executor": "Run",
     "Python.08_序列和切片.executor": "Run",
+    "Python.09-字典的常用操作.executor": "Run",
     "Python.09-数据输入.executor": "Run",
     "Python.09_序列切片课后练习.executor": "Run",
     "Python.09_继承_复写和使用父类成员.executor": "Run",
+    "Python.14_字典课后练习.executor": "Run",
+    "Python.15_数据容器通用功能.executor": "Run",
     "Python.99乘法表.executor": "Run",
     "Python.pyhon中基本语句 (1).executor": "Run",
     "Python.tempfile_1708263610733 (1).executor": "Run",
@@ -397,7 +401,7 @@
       <workItem from="1708509327329" duration="414000" />
       <workItem from="1708510055273" duration="768000" />
       <workItem from="1708580209179" duration="23000" />
-      <workItem from="1708943802316" duration="2640000" />
+      <workItem from="1708943802316" duration="2945000" />
     </task>
     <task id="LOCAL-00001" summary="学习">
       <option name="closed" value="true" />
@@ -463,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706414125858</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="学习">
+      <option name="closed" value="true" />
+      <created>1708946753391</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708946753392</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -533,7 +545,7 @@
     <SUITE FILE_PATH="coverage/02_for_01_for_02_range_py$03_.coverage" NAME="03-函数的参数 覆盖结果" MODIFIED="1707730678405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04-python函数" />
     <SUITE FILE_PATH="coverage/01_list_py$02_list.coverage" NAME="02-list列表的常用操作 覆盖结果" MODIFIED="1708944368640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_数据容器" />
     <SUITE FILE_PATH="coverage/test_py$tempfile_1708267781330.coverage" NAME="tempfile_1708267781330 覆盖结果" MODIFIED="1708267784850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00-python测试" />
-    <SUITE FILE_PATH="coverage/01_list_py$09_.coverage" NAME="09_序列切片课后练习 覆盖结果" MODIFIED="1708945781342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_数据容器" />
+    <SUITE FILE_PATH="coverage/01_list_py$09_.coverage" NAME="09-字典的常用操作 覆盖结果" MODIFIED="1708946535026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_数据容器" />
     <SUITE FILE_PATH="coverage/09__py$01_while.coverage" NAME="01_while循环的基础语法 覆盖结果" MODIFIED="1707383924123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../百度网盘下载/代码/python-learn/04_Python循环语句" />
     <SUITE FILE_PATH="coverage/test_py$09__.coverage" NAME="09_继承_复写和使用父类成员 覆盖结果" MODIFIED="1708417243521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../百度网盘下载/课件/python-课程代码/python-learn/11_面向对象" />
     <SUITE FILE_PATH="coverage/pyhon_py$pyhon__1_.coverage" NAME="pyhon中基本语句 (1) 覆盖结果" MODIFIED="1707301832346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -555,6 +567,7 @@
     <SUITE FILE_PATH="coverage/09__py$02_if_02_if_else.coverage" NAME="02-if语句-02-if else语句 覆盖结果" MODIFIED="1707380191554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-判断语句" />
     <SUITE FILE_PATH="coverage/01__py$02_list_01_.coverage" NAME="02-list-01-列表的定义 覆盖结果" MODIFIED="1707902115513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05-数据容器" />
     <SUITE FILE_PATH="coverage/test_py$tempfile_1708263610733__1_.coverage" NAME="tempfile_1708263610733 (1) 覆盖结果" MODIFIED="1708263691153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00-python测试/银行管理/dist" />
+    <SUITE FILE_PATH="coverage/01_list_py$14_.coverage" NAME="14_字典课后练习 覆盖结果" MODIFIED="1708946582583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_数据容器" />
     <SUITE FILE_PATH="coverage/03__py$07_.coverage" NAME="07-变量的作用域 覆盖结果" MODIFIED="1707886004721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04-python函数" />
     <SUITE FILE_PATH="coverage/python_study$pyhon__1_.coverage" NAME="pyhon中基本语句 (1) 覆盖结果" MODIFIED="1706521976470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/09__py$09_.coverage" NAME="09-数据输入 覆盖结果" MODIFIED="1707306669570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01-基本语句" />
@@ -564,6 +577,7 @@
     <SUITE FILE_PATH="coverage/01_list_py$01_list.coverage" NAME="01-list列表 覆盖结果" MODIFIED="1708944034514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_数据容器" />
     <SUITE FILE_PATH="coverage/test_py$tempfile_1708264434751.coverage" NAME="tempfile_1708264434751 覆盖结果" MODIFIED="1708265559542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin" />
     <SUITE FILE_PATH="coverage/test_py$test.coverage" NAME="test 覆盖结果" MODIFIED="1708508155321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00-python测试" />
+    <SUITE FILE_PATH="coverage/01_list_py$15_.coverage" NAME="15_数据容器通用功能 覆盖结果" MODIFIED="1708946625561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_数据容器" />
     <SUITE FILE_PATH="coverage/09__py$02_for.coverage" NAME="02-for循环的基本语法 覆盖结果" MODIFIED="1707389373970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03-循环语句" />
     <SUITE FILE_PATH="coverage/test_py$tempfile_1708264012729.coverage" NAME="tempfile_1708264012729 覆盖结果" MODIFIED="1708264129949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00-python测试" />
     <SUITE FILE_PATH="coverage/09__py$02_for_01_for_02_range.coverage" NAME="02-for循环-01-for循环的基本语法-02-range语法 覆盖结果" MODIFIED="1707392917400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03-循环语句" />
