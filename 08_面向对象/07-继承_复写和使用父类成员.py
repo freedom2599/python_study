@@ -6,7 +6,7 @@
 
 class Phone:
     IMEI = None             # 序列号
-    producer = "ITCAST"     # 厂商
+    producer = "freedom"     # 厂商
 
     @staticmethod
     def call_by_5g():
@@ -15,7 +15,7 @@ class Phone:
 
 # 定义子类，复写父类成员
 class MyPhone(Phone):
-    producer = "ITHEIMA"        # 复写父类的成员属性
+    producer = "xiaomeng"        # 复写父类的成员属性
 
     def call_by_5g(self):
         print("开启CPU单核模式，确保通话的时候省电")
@@ -33,4 +33,3 @@ phone.call_by_5g()
 print(phone.producer)
 
 # 在子类中，调用父类成员
-

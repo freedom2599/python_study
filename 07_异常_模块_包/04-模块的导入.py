@@ -1,21 +1,6 @@
 """
 演示Python的模块导入
 """
-
-from time import sleep
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 使用import导入time模块使用sleep功能（函数）
 # import time     # 导入Python内置的time模块（time.py这个代码文件）
 # print("你好")

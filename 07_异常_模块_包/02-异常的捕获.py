@@ -4,10 +4,10 @@
 
 # 基本捕获语法
 # try:
-#     f = open("D:/abc.txt", "r", encoding="UTF-8")
+#     f = open("test.txt", "r", encoding="UTF-8")
 # except:
 #     print("出现异常了，因为文件不存在，我将open的模式，改为w模式去打开")
-#     f = open("D:/abc.txt", "w", encoding="UTF-8")
+#     f = open("test.txt", "w", encoding="UTF-8")
 
 # 捕获指定的异常
 # try:
@@ -26,12 +26,12 @@
 
 # 捕获所有异常
 try:
-    f = open("D:/123.txt", "r", encoding="UTF-8")
+    f = open("test.txt", "r", encoding="UTF-8")
 except Exception as e:
     print("出现异常了")
-    f = open("D:/123.txt", "w", encoding="UTF-8")
+    f = open("test.txt", "w", encoding="UTF-8")
 else:
     print("好高兴，没有异常。")
 finally:
-    print("我是finally，有没有异常我都要执行")
+    print("有没有异常都执行")
     f.close()

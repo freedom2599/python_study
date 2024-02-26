@@ -5,13 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82ee2a78-ac6d-4702-8880-728a9fcbf7ba" name="更改" comment="学习">
-      <change afterPath="$PROJECT_DIR$/06_文件操作/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_文件操作/01_文件的读取.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_文件操作/01-文件的读取.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_文件操作/02_文件读取的课后练习.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_文件操作/03_文件的写入.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_文件操作/02-文件的写入.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_文件操作/04_文件的追加写入.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_文件操作/03-文件的追加写入.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_文件操作/05_文件操作的综合案例.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_异常_模块_包/01_演示异常的出现.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_异常_模块_包/01-演示异常的出现.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_异常_模块_包/02_异常的捕获.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_异常_模块_包/02-异常的捕获.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_异常_模块_包/03_异常的传递.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_异常_模块_包/03-异常的传递.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_异常_模块_包/04_模块的导入.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_异常_模块_包/04-模块的导入.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_异常_模块_包/05_自定义模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_异常_模块_包/05-自定义模块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_异常_模块_包/06_包.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_异常_模块_包/06-包.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_异常_模块_包/07_综合案例练习.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_异常_模块_包/08_扩展_Python常用模块功能.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_异常_模块_包/07-扩展_Python常用模块功能.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_面向对象/02_成员方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_面向对象/01-成员方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_面向对象/03_类和对象.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_面向对象/02-类和对象.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_面向对象/04_构造方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_面向对象/03-构造方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_面向对象/05_其它内置方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_面向对象/04-其它内置方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_面向对象/06_封装.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_面向对象/05-封装.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_面向对象/07_封装课后练习题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_面向对象/08_继承的基础语法.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_面向对象/06-继承的基础语法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_面向对象/09_继承_复写和使用父类成员.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_面向对象/07-继承_复写和使用父类成员.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_面向对象/10_类型注解_变量.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_面向对象/08-类型注解_变量.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_面向对象/11_类型注解_函数和方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_面向对象/09-类型注解_函数和方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_面向对象/12_类型注解_Union联合类型.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_面向对象/10-类型注解_Union联合类型.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_面向对象/13_多态.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_面向对象/11-多态.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_面向对象/数据分析案例/data_define.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_面向对象/数据分析案例/file_define.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_面向对象/数据分析案例/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_面向对象/数据分析案例/每日销售额柱状图.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_面向对象/黑马银行ATM案例/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_sql/01_pymysql入门.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_sql/01-pymysql入门.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_sql/02_pymysql_数据插入.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_sql/02-pymysql_数据插入.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_sql/data_define.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_sql/file_define.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_sql/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_sql/main2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +104,7 @@
     "Python.01-文件的读取.executor": "Run",
     "Python.01_pyhon中基本语句.executor": "Run",
     "Python.01_while循环的基础语法.executor": "Run",
+    "Python.01_演示异常的出现.executor": "Run",
     "Python.02-for循环-01-for循环的基本语法-02-range语法.executor": "Run",
     "Python.02-for循环-01-for循环的基本语法-03-for循环的作用范围.executor": "Run",
     "Python.02-for循环-02-for循环的嵌套应用.executor": "Run",
@@ -90,12 +116,16 @@
     "Python.02-list列表的常用操作.executor": "Run",
     "Python.02-函数的定义.executor": "Run",
     "Python.02-文件的写入.executor": "Run",
+    "Python.02_成员方法.executor": "Run",
     "Python.03-list列表的循环.executor": "Run",
     "Python.03-函数的参数.executor": "Run",
     "Python.03-判断语句的嵌套.executor": "Run",
+    "Python.03-异常的传递.executor": "Run",
     "Python.03-循环中断.executor": "Run",
     "Python.03-文件的追加写入.executor": "Run",
+    "Python.03-构造方法.executor": "Run",
     "Python.04-tuple元组.executor": "Run",
+    "Python.04-其它内置方法.executor": "Run",
     "Python.04-函数返回值-01-定义语法.executor": "Debug",
     "Python.04-函数返回值-02-None类型.executor": "Run",
     "Python.04-循环利用.executor": "Run",
@@ -105,6 +135,7 @@
     "Python.07-集合.executor": "Run",
     "Python.08-字典.executor": "Run",
     "Python.08_序列和切片.executor": "Run",
+    "Python.08_继承的基础语法.executor": "Run",
     "Python.09-字典的常用操作.executor": "Run",
     "Python.09-数据输入.executor": "Run",
     "Python.09_序列切片课后练习.executor": "Run",
@@ -148,8 +179,8 @@
       <recent name="E:\学习\python_study\00-python测试\银行管理\dist" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03-文件的追加写入">
-    <configuration name="01-文件的读取" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.07-继承_复写和使用父类成员">
+    <configuration name="01-成员方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_study" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,12 +189,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_文件操作" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_面向对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_文件操作/01-文件的读取.py" />
+      <option name="SCRIPT_NAME" value="E:\学习\python_study\08_面向对象\01-成员方法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02-文件的写入" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03-构造方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_study" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,12 +212,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_文件操作" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_面向对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_文件操作/02-文件的写入.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_面向对象/03-构造方法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,7 +226,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03-文件的追加写入" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04-其它内置方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_study" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,12 +235,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_文件操作" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_面向对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_文件操作/03-文件的追加写入.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_面向对象/04-其它内置方法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,7 +249,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10-数据容器通用功能" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06-继承的基础语法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_study" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -227,12 +258,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_数据容器" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_面向对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\学习\python_study\05_数据容器\10-数据容器通用功能.py" />
+      <option name="SCRIPT_NAME" value="E:\学习\python_study\08_面向对象\06-继承的基础语法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,7 +272,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14_字典课后练习" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07-继承_复写和使用父类成员" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_study" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -250,12 +281,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_数据容器" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_面向对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_数据容器/14_字典课后练习.py" />
+      <option name="SCRIPT_NAME" value="E:\学习\python_study\08_面向对象\07-继承_复写和使用父类成员.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,11 +321,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.03-文件的追加写入" />
-        <item itemvalue="Python.02-文件的写入" />
-        <item itemvalue="Python.01-文件的读取" />
-        <item itemvalue="Python.10-数据容器通用功能" />
-        <item itemvalue="Python.14_字典课后练习" />
+        <item itemvalue="Python.07-继承_复写和使用父类成员" />
+        <item itemvalue="Python.06-继承的基础语法" />
+        <item itemvalue="Python.04-其它内置方法" />
+        <item itemvalue="Python.03-构造方法" />
+        <item itemvalue="Python.01-成员方法" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +380,7 @@
       <workItem from="1708509327329" duration="414000" />
       <workItem from="1708510055273" duration="768000" />
       <workItem from="1708580209179" duration="23000" />
-      <workItem from="1708943802316" duration="4238000" />
+      <workItem from="1708943802316" duration="5529000" />
     </task>
     <task id="LOCAL-00001" summary="学习">
       <option name="closed" value="true" />
@@ -495,14 +526,16 @@
     <SUITE FILE_PATH="coverage/test_py$.coverage" NAME="银行管理 覆盖结果" MODIFIED="1708264275094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00-python测试" />
     <SUITE FILE_PATH="coverage/01_list_py$04_tuple.coverage" NAME="04-tuple元组 覆盖结果" MODIFIED="1708945177005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_数据容器" />
     <SUITE FILE_PATH="coverage/09__py$02_if_03_if_elif_else.coverage" NAME="02-if语句-03-if elif else语句 覆盖结果" MODIFIED="1707382094128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-判断语句" />
-    <SUITE FILE_PATH="coverage/01_list_py$08_.coverage" NAME="08-字典 覆盖结果" MODIFIED="1708946252009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_数据容器" />
-    <SUITE FILE_PATH="coverage/01_list_py$01_.coverage" NAME="01-文件的读取 覆盖结果" MODIFIED="1708947857124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_文件操作" />
+    <SUITE FILE_PATH="coverage/01_list_py$01_.coverage" NAME="01_演示异常的出现 覆盖结果" MODIFIED="1708948132803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_异常_模块_包" />
+    <SUITE FILE_PATH="coverage/01_list_py$08_.coverage" NAME="08_继承的基础语法 覆盖结果" MODIFIED="1708948972876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象" />
     <SUITE FILE_PATH="coverage/test_py$tempfile_1708263853835.coverage" NAME="tempfile_1708263853835 覆盖结果" MODIFIED="1708263997816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00-python测试" />
+    <SUITE FILE_PATH="coverage/01_list_py$09__.coverage" NAME="09_继承_复写和使用父类成员 覆盖结果" MODIFIED="1708949003752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象" />
     <SUITE FILE_PATH="coverage/01__py$01_.coverage" NAME="01-数据容器入门 覆盖结果" MODIFIED="1707900834717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05-数据容器" />
     <SUITE FILE_PATH="coverage/02_for_01_for_02_range_py$03_.coverage" NAME="03-函数的参数 覆盖结果" MODIFIED="1707730678405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04-python函数" />
     <SUITE FILE_PATH="coverage/01_list_py$02_list.coverage" NAME="02-list列表的常用操作 覆盖结果" MODIFIED="1708944368640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_数据容器" />
     <SUITE FILE_PATH="coverage/test_py$tempfile_1708267781330.coverage" NAME="tempfile_1708267781330 覆盖结果" MODIFIED="1708267784850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00-python测试" />
     <SUITE FILE_PATH="coverage/01_list_py$09_.coverage" NAME="09-字典的常用操作 覆盖结果" MODIFIED="1708946535026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_数据容器" />
+    <SUITE FILE_PATH="coverage/01_list_py$04_.coverage" NAME="04-其它内置方法 覆盖结果" MODIFIED="1708948794737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象" />
     <SUITE FILE_PATH="coverage/09__py$01_while.coverage" NAME="01_while循环的基础语法 覆盖结果" MODIFIED="1707383924123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../百度网盘下载/代码/python-learn/04_Python循环语句" />
     <SUITE FILE_PATH="coverage/test_py$09__.coverage" NAME="09_继承_复写和使用父类成员 覆盖结果" MODIFIED="1708417243521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../百度网盘下载/课件/python-课程代码/python-learn/11_面向对象" />
     <SUITE FILE_PATH="coverage/pyhon_py$pyhon__1_.coverage" NAME="pyhon中基本语句 (1) 覆盖结果" MODIFIED="1707301832346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -523,7 +556,7 @@
     <SUITE FILE_PATH="coverage/03__py$04__01_.coverage" NAME="04-函数返回值-01-定义语法 覆盖结果" MODIFIED="1707881564612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04-python函数" />
     <SUITE FILE_PATH="coverage/09__py$02_if_02_if_else.coverage" NAME="02-if语句-02-if else语句 覆盖结果" MODIFIED="1707380191554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-判断语句" />
     <SUITE FILE_PATH="coverage/01__py$02_list_01_.coverage" NAME="02-list-01-列表的定义 覆盖结果" MODIFIED="1707902115513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05-数据容器" />
-    <SUITE FILE_PATH="coverage/01_list_py$03_.coverage" NAME="03-文件的追加写入 覆盖结果" MODIFIED="1708948029545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_文件操作" />
+    <SUITE FILE_PATH="coverage/01_list_py$03_.coverage" NAME="03-构造方法 覆盖结果" MODIFIED="1708948745570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象" />
     <SUITE FILE_PATH="coverage/test_py$tempfile_1708263610733__1_.coverage" NAME="tempfile_1708263610733 (1) 覆盖结果" MODIFIED="1708263691153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00-python测试/银行管理/dist" />
     <SUITE FILE_PATH="coverage/01_list_py$14_.coverage" NAME="14_字典课后练习 覆盖结果" MODIFIED="1708946582583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_数据容器" />
     <SUITE FILE_PATH="coverage/03__py$07_.coverage" NAME="07-变量的作用域 覆盖结果" MODIFIED="1707886004721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04-python函数" />
@@ -536,7 +569,7 @@
     <SUITE FILE_PATH="coverage/test_py$tempfile_1708264434751.coverage" NAME="tempfile_1708264434751 覆盖结果" MODIFIED="1708265559542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin" />
     <SUITE FILE_PATH="coverage/test_py$test.coverage" NAME="test 覆盖结果" MODIFIED="1708508155321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00-python测试" />
     <SUITE FILE_PATH="coverage/01_list_py$15_.coverage" NAME="15_数据容器通用功能 覆盖结果" MODIFIED="1708946625561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_数据容器" />
-    <SUITE FILE_PATH="coverage/01_list_py$02_.coverage" NAME="02-文件的写入 覆盖结果" MODIFIED="1708947916487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_文件操作" />
+    <SUITE FILE_PATH="coverage/01_list_py$02_.coverage" NAME="02_成员方法 覆盖结果" MODIFIED="1708948581520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象" />
     <SUITE FILE_PATH="coverage/09__py$02_for.coverage" NAME="02-for循环的基本语法 覆盖结果" MODIFIED="1707389373970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03-循环语句" />
     <SUITE FILE_PATH="coverage/test_py$tempfile_1708264012729.coverage" NAME="tempfile_1708264012729 覆盖结果" MODIFIED="1708264129949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00-python测试" />
     <SUITE FILE_PATH="coverage/09__py$02_for_01_for_02_range.coverage" NAME="02-for循环-01-for循环的基本语法-02-range语法 覆盖结果" MODIFIED="1707392917400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03-循环语句" />

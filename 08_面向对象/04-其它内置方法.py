@@ -25,13 +25,6 @@ class Student:
         return self.age == other.age
 
 
-stu1 = Student("周杰轮", 31)
-stu2 = Student("林俊节", 36)
+stu1 = Student("小刘", 20)
+stu2 = Student("小梦", 24)
 print(stu1 == stu2)
-
-
-#
-
-
-
-
